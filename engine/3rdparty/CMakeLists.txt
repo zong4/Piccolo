@@ -78,7 +78,7 @@ if(NOT TARGET Jolt)
 endif()
 
 if(NOT TARGET sol2)
-    add_subdirectory(sol2-3.3.0)
+    add_subdirectory(sol2-develop)
 endif()
 
 
